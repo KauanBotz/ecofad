@@ -31,6 +31,9 @@ Construída com foco em **performance**, **design responsivo** e **conversão de
 
 ---
 
+## 📄 Licença
+Projeto desenvolvido por Kauan – uso empresarial autorizado com créditos.
+
 ## 📦 Como rodar localmente
 
 ```bash
@@ -45,6 +48,3 @@ npm install
 
 # Rode o projeto
 npm run dev
-
-## 📄 Licença
-Projeto desenvolvido por Kauan – uso empresarial autorizado com créditos.
